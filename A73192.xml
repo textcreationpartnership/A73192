@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Pleasant countrey maying song to the tune of the Popes machina.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73192</idno>
+            <idno type="STC">STC 22919.7</idno>
+            <idno type="STC">ESTC S5327</idno>
+            <idno type="EEBO-CITATION">39960816</idno>
+            <idno type="OCLC">ocm 39960816</idno>
+            <idno type="VID">150511</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150511)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1950:9b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Pleasant countrey maying song to the tune of the Popes machina.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>for T.L.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[ca. 1624]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from STC (2nd ed.).</note>
+                  <note>Bound and filmed following STC (2nd ed.) 17770.3.</note>
+                  <note>Reproduction of original in: Pepys Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:150511:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <head>A pleaſant Countrey Maying Song.</head>
+            <opener>To the tune of the Popes Machina.</opener>
+            <lg>
+               <l>IN this merry Maying time,</l>
+               <l>Now comes in the Summer prime.</l>
+               <l>Countrey Damſels freſh and gay,</l>
+               <l>Walke abroade to gather May:</l>
+            </lg>
+            <lg>
+               <l>In an euening make a match,</l>
+               <l>In in a morning bowes to fatch.</l>
+               <l>Well is ſhe that firſt of all,</l>
+               <l>Can her louer ſooneſt call,</l>
+            </lg>
+            <lg>
+               <l>Méeting him without the towne,</l>
+               <l>Where he giues his Loue a gowne.</l>
+               <l>Tib was in a gowne of gray,</l>
+               <l>Tom he had her at a bay.</l>
+            </lg>
+            <lg>
+               <l>Hand in hand they take their way,</l>
+               <l>Catching many a rundelay,</l>
+               <l>Gréeting her with a ſmile,</l>
+               <l>Kiſſing her at euery ſtile.</l>
+            </lg>
+            <lg>
+               <l>Then he leades her to the Spring,</l>
+               <l>Where the Primroſe reigneth king.</l>
+               <l>Vpon a bed of Violets blew,</l>
+               <l>Downe he throwes his Louer true.</l>
+            </lg>
+            <lg>
+               <l>She puts finger in the eye,</l>
+               <l>And checkes him for his qualitie.</l>
+               <l>She bids him to her mothers houſe,</l>
+               <l>To Cakes &amp; Creame &amp; Country ſouce.</l>
+            </lg>
+            <lg>
+               <l>He muſt tell her all his mind,</l>
+               <l>But ſhe will ſigh and ſtay behind.</l>
+               <l>Such a countrey play as this,</l>
+               <l>The maids of our town cannot mis.</l>
+            </lg>
+            <lg>
+               <l>They will in a morning gay,</l>
+               <l>Decke themſelues and gather May.</l>
+               <l>Then they will goe crop the flowers,</l>
+               <l>Mongſt the leaues and Country bowers.</l>
+            </lg>
+            <lg>
+               <l>When our maidens meet together,</l>
+               <l>There is praying for faire weather.</l>
+               <l>Glad are they to ſee the Sunne,</l>
+               <l>That they may play when work is don.</l>
+            </lg>
+            <lg>
+               <l>Some at Dancings make a ſhow,</l>
+               <l>If they can get leaue to goe.</l>
+               <l>Young men will for maidens ſakes,</l>
+               <l>Giue them Sugar, Creame &amp; Cakes</l>
+            </lg>
+            <lg>
+               <l>With a cup of dainty Wine,</l>
+               <l>And it muſt be neate and fine.</l>
+               <l>Some of them for their good cheare,</l>
+               <l>Playes thrée quarters of a years.</l>
+            </lg>
+            <lg>
+               <l>Thou at the firſt I liked well,</l>
+               <l>Cakes and Creame do make me ſwell.</l>
+               <l>This pretty maiden waxeth <unclear>big</unclear>
+                  <g ref="char:punc">▪</g>
+               </l>
+               <l>See what 'tis to play the Rig.</l>
+            </lg>
+            <lg>
+               <l>Vp ſhe deckes her white and cleene,</l>
+               <l>To trace the medowes freſh and green<g ref="char:punc">▪</g>
+               </l>
+               <l>Or to the good towne <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Where ſhe points to meet her friend.</l>
+            </lg>
+            <lg>
+               <l>Her gowne was tuckt aboue the knee,</l>
+               <l>Her mi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kwhite ſmock that you may ſee.</l>
+               <l>Thus her amorus Loue and ſhe,</l>
+               <l>Sports from eight o clocke till three:</l>
+            </lg>
+            <lg>
+               <l>All the while the Cuckow ſings,</l>
+               <l>Towards the euening home ſhe flings,</l>
+               <l>And brings with her an Oaken bow,</l>
+               <l>With a Country Cake or two.</l>
+            </lg>
+            <lg>
+               <l>Straight ſhe tels a ſolemne tale,</l>
+               <l>How ſhe heard the Nightingale,</l>
+               <l>And how ech medow greenly ſprings:</l>
+               <l>But yet not how the Cuckow ſings.</l>
+            </lg>
+            <lg>
+               <l>In the merry Maying time,</l>
+               <l>Loue is in her chiefeſt prime.</l>
+               <l>What for Gentlemen and Clownes,</l>
+               <l>Our country maids can want no gownes.</l>
+            </lg>
+            <lg>
+               <l>Sillibubs and dainty cheare,</l>
+               <l>Yong men lacke not all the yeere.</l>
+               <l>All the maidens in the ſtreet.</l>
+               <l>With the bonny Yonkers meet.</l>
+            </lg>
+            <lg>
+               <l>All the while the graſſe is greene,</l>
+               <l>And the Daſies grow betweene,</l>
+               <l>Dicke and Tom doe walk the fields,</l>
+               <l>Still to trip vp maidens heeles.</l>
+            </lg>
+            <lg>
+               <l>Thus the Robin and the Thruſh,</l>
+               <l>Muſicke make in euery buſh.</l>
+               <l>While they charme their prety notes,</l>
+               <l>Young men hurle vp maidens cates.</l>
+            </lg>
+            <lg>
+               <l>But 'cauſe I will do them no wrong,</l>
+               <l>Here I end my Maying ſong,</l>
+               <l>And wiſh my friends take heed in time.</l>
+               <l>How they ſpend their Summers prime.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for T.L.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
